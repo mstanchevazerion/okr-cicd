@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aczDScl5x49llS43XzivlCkAJdMz08uY3ACyAezXFtJ6FhvARJ8BifEPuQvdnQxCLmCgiim6D0x3T76p2mP2uQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\okr-cicd\\okr-cicd\\pado\\pado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.stanchev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

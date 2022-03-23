@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  monetization:
+    image: ${DOCKER_REGISTRY-}monetization
+    build:
+      context: .
+      dockerfile: monetization/Dockerfile
+
+  pado:
+    image: ${DOCKER_REGISTRY-}pado
+    build:
+      context: .
+      dockerfile: pado/Dockerfile
+
